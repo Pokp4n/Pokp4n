@@ -123,8 +123,6 @@ A collection of programming exercises and projects developed throughout my Compu
 
 ---
 
----
-
 <div align="center">
 
 ### 🤝 Let's Connect
