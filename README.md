@@ -83,21 +83,53 @@ I'm still learning, so this list will probably keep changing 😄
 
 ---
 
-## 📌 Projects
+## 📚 University Projects
 
-### 🔐 SecureX
+Here are some of the projects I've worked on during my studies at IIUM. Some are individual projects, while others were built together with my classmates.
 
-**Hybrid XOR & Vigenère Encryption System**
+### 💬 SecureStudentChat
 
-A C++ project that my team and I built for our Programming for Engineers course. It combines the **Vigenère Cipher** with **XOR encryption** to encrypt and decrypt text.
+A university project focused on building a secure student communication system.
 
-`C++` `Vigenère Cipher` `XOR` `Cryptography`
+`Security` `Programming` `Group Project`
 
 ---
 
-### 💻 More Projects Coming...
+### 🔐 SecureX
 
-I'm slowly adding more of my university and personal projects here as I work on them.
+A hybrid encryption project built for my **Programming for Engineers** course.
+
+The program combines the **Vigenère Cipher and XOR encryption** to encrypt and decrypt text.
+
+`C++` `Cryptography` `Vigenère Cipher` `XOR`
+
+---
+
+### 🔏 Privacy Engineering
+
+A group project where I worked with my teammates on concepts related to privacy, security, and data protection.
+
+`Privacy` `Security` `Group Project`
+
+---
+
+### 🚗 OOP Car Rental System
+
+A car rental system developed while learning and applying **Object-Oriented Programming (OOP)** concepts.
+
+`OOP` `Programming` `Group Project`
+
+---
+
+### 🧮 Calculator
+
+A smaller project created while practicing programming fundamentals and problem solving.
+
+`Programming` `Problem Solving`
+
+---
+
+> I'll keep adding projects here as I build and learn more :)
 
 ---
 
