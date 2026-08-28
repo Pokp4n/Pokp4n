@@ -1,11 +1,9 @@
-<h1 align="center">Hi there, I'm Wan Zul 👋</h1>
+<h1 align="center">Hi, I'm Wan Zul 👋</h1>
 
-<h3 align="center">
-  Computer Science Student @ IIUM 💻
-</h3>
+<h3 align="center">Computer Science Student @ IIUM 💻</h3>
 
 <p align="center">
-  Interested in Software Development • Cybersecurity • Networking • IoT
+  Software Development • Cybersecurity • Networking • IoT
 </p>
 
 <div align="center">
@@ -24,22 +22,22 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Science student at the International Islamic University Malaysia (IIUM)** with an interest in exploring different areas of computing and technology.
+I'm currently studying **Computer Science at the International Islamic University Malaysia (IIUM)**.
 
-- 🎓 Studying **Bachelor of Computer Science** at IIUM
-- 💻 Currently strengthening my programming and software development skills
-- 🔐 Exploring **Cybersecurity, Ethical Hacking, CTFs and Red Teaming**
-- 🌐 Interested in **Computer Networking and Internet of Things (IoT)**
-- 🧠 Currently learning and working with **C++, Python, Java and Web Technologies**
-- 🛠️ Building academic and personal projects to improve my practical skills
-- 🤝 Actively involved in student societies, technical programmes and university activities
-- 🚀 Always interested in learning new technologies and gaining hands-on experience
+I enjoy learning about different areas of tech and trying things out through university projects, workshops, and my own practice.
+
+- 💻 Currently working mostly with **C++, Python and Java**
+- 🔐 Learning more about **cybersecurity and ethical hacking**
+- 🚩 Starting to explore **CTFs and Red Teaming**
+- 🌐 Also interested in **networking and IoT**
+- 🧩 Trying to get better at programming and problem solving
+- 🛠️ Most of the projects here are things I've built while learning
 
 ---
 
 ## 🛠️ Languages & Tools
 
-### 💻 Programming Languages
+### Programming
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/>
@@ -51,7 +49,7 @@ I'm a **Computer Science student at the International Islamic University Malaysi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
 </div>
 
-### 🌐 Web & Database
+### Web & Database
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML"/>
@@ -61,7 +59,7 @@ I'm a **Computer Science student at the International Islamic University Malaysi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
 </div>
 
-### 🔧 Tools
+### Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
@@ -75,66 +73,60 @@ I'm a **Computer Science student at the International Islamic University Malaysi
 
 ---
 
-## 🌱 Currently Exploring
+## 🌱 Things I'm Learning
 
-- 🔐 Cybersecurity & Ethical Hacking
-- 🚩 Capture The Flag (CTF)
-- 🔴 Red Teaming
-- 🌐 Computer Networking
-- 📡 Internet of Things (IoT)
-- 💻 C++ Programming
-- 🧩 Problem Solving & Algorithms
+Right now, I'm spending my time learning and exploring:
+
+`C++` `Cybersecurity` `CTF` `Networking` `IoT` `Red Teaming` `Algorithms`
+
+I'm still learning, so this list will probably keep changing 😄
 
 ---
 
-## 📌 Featured Projects
+## 📌 Projects
 
-### 🔐 SecureX — Hybrid Encryption System
+### 🔐 SecureX
 
-A C++ encryption system combining **Vigenère Cipher and XOR encryption** to explore fundamental cryptography concepts.
+**Hybrid XOR & Vigenère Encryption System**
 
-`C++` `Cryptography` `XOR` `Vigenère Cipher`
+A C++ project that my team and I built for our Programming for Engineers course. It combines the **Vigenère Cipher** with **XOR encryption** to encrypt and decrypt text.
 
-### 📚 University Programming Projects
-
-A collection of programming exercises and projects developed throughout my Computer Science studies at IIUM.
-
-`C++` `Python` `Java` `Problem Solving`
-
-> More projects coming soon as I continue building and learning 🚀
+`C++` `Vigenère Cipher` `XOR` `Cryptography`
 
 ---
 
-## 📊 GitHub Stats
+### 💻 More Projects Coming...
 
-<div align="center">
+I'm slowly adding more of my university and personal projects here as I work on them.
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pokp4n)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-<br><br>
+## 🚩 Cybersecurity Journey
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pokp4n)](https://github.com/anuraghazra/github-readme-stats)
+I've recently started spending more time learning about cybersecurity outside of class.
 
-<br><br>
+So far, I've been exploring things like:
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Pokp4n)](https://git.io/streak-stats)
+- Capture The Flag (CTF)
+- Ethical Hacking
+- Red Teaming
+- Networking
+- Security tools and labs
 
-</div>
+Still very much learning — but that's part of the fun :)
 
 ---
 
 <div align="center">
 
-### 🤝 Let's Connect
-
-I'm always open to learning, collaborating, and connecting with others interested in technology.
+### 🤝 Connect with Me
 
 <a href="https://www.linkedin.com/in/wan-zul-%E2%80%98irfan-wan-zulkifli-27b76333a/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Connect%20on%20LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="30" alt="LinkedIn"/>
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="30" alt="LinkedIn"/>
 </a>
 
 <br><br>
 
-**Thanks for visiting my profile! 👋**
+Thanks for stopping by! 👋
 
 </div>
