@@ -3,7 +3,7 @@
 <h3 align="center">Computer Science Student @ IIUM 💻</h3>
 
 <p align="center">
-  Software Development • Cybersecurity • Networking • IoT
+  Cybersecurity • Software Development • Networking • IoT
 </p>
 
 <div align="center">
