@@ -109,15 +109,15 @@ A collection of programming exercises and projects developed throughout my Compu
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Pokp4n&show_icons=true&theme=github_dark" alt="Wan Zul's GitHub Stats" />
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pokp4n)](https://github.com/anuraghazra/github-readme-stats)
 
-  <br><br>
+<br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pokp4n&layout=compact&theme=github_dark" alt="Wan Zul's Top Languages" />
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pokp4n)](https://github.com/anuraghazra/github-readme-stats)
 
-  <br><br>
+<br><br>
 
-  <img src="https://streak-stats.demolab.com/?user=Pokp4n&theme=github-dark-blue" alt="Wan Zul's GitHub Streak" />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Pokp4n)](https://git.io/streak-stats)
 
 </div>
 
