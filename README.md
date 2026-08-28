@@ -87,7 +87,7 @@ I'm still learning, so this list will probably keep changing 😄
 
 Here are some of the projects I've worked on during my studies at IIUM. Some are individual projects, while others were built together with my classmates.
 
-### 💬 SecureStudentChat
+### 💬 [SecureStudentChat](https://github.com/Pokp4n/SecureStudentChat)
 
 A university project focused on building a secure student communication system.
 
@@ -95,7 +95,7 @@ A university project focused on building a secure student communication system.
 
 ---
 
-### 🔐 SecureX
+### 🔐 [SecureX](https://github.com/Pokp4n/SecureX)
 
 A hybrid encryption project built for my **Programming for Engineers** course.
 
@@ -105,7 +105,7 @@ The program combines the **Vigenère Cipher and XOR encryption** to encrypt and 
 
 ---
 
-### 🔏 Privacy Engineering
+### 🔏 [Privacy Engineering](https://github.com/Hazim229/Privacy-Engineering)
 
 A group project where I worked with my teammates on concepts related to privacy, security, and data protection.
 
@@ -113,7 +113,7 @@ A group project where I worked with my teammates on concepts related to privacy,
 
 ---
 
-### 🚗 OOP Car Rental System
+### 🚗 [OOP Car Rental System](https://github.com/baia12/OOP_CarRented)
 
 A car rental system developed while learning and applying **Object-Oriented Programming (OOP)** concepts.
 
@@ -121,7 +121,7 @@ A car rental system developed while learning and applying **Object-Oriented Prog
 
 ---
 
-### 🧮 Calculator
+### 🧮 [Calculator](https://github.com/sshafiq05/calculator)
 
 A smaller project created while practicing programming fundamentals and problem solving.
 
@@ -130,7 +130,6 @@ A smaller project created while practicing programming fundamentals and problem 
 ---
 
 > I'll keep adding projects here as I build and learn more :)
-
 ---
 
 ## 🚩 Cybersecurity Journey
