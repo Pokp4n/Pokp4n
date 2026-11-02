@@ -1,14 +1,15 @@
+
 <h1 align="center">Hi, I'm Wan Zul 👋</h1>
 
 <h3 align="center">Computer Science Student @ IIUM 💻</h3>
 
 <p align="center">
-  Cybersecurity • Software Development • Networking • IoT
+  🔐 Cybersecurity &nbsp;•&nbsp; 🚩 CTF & Penetration Testing &nbsp;•&nbsp; 💻 Software Development
 </p>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/wan-zul-%E2%80%98irfan-wan-zulkifli-27b76333a/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="28" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/wan-zul-irfan/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
 
@@ -22,16 +23,17 @@
 
 ## 👨‍💻 About Me
 
-I'm currently studying **Computer Science at the International Islamic University Malaysia (IIUM)**.
+I'm a **Computer Science undergraduate at the International Islamic University Malaysia (IIUM)**, specializing in **Security in Digital Systems**.
 
-I enjoy learning about different areas of tech and trying things out through university projects, workshops, and my own practice.
+I'm especially interested in **cybersecurity, Capture The Flag (CTF) challenges, and penetration testing**. I enjoy learning how systems work, exploring security concepts through hands-on labs, and improving my problem-solving skills along the way.
 
-- 💻 Currently working mostly with **C++, Python and Java**
-- 🔐 Learning more about **cybersecurity and ethical hacking**
-- 🚩 Starting to explore **CTFs and Red Teaming**
-- 🌐 Also interested in **networking and IoT**
-- 🧩 Trying to get better at programming and problem solving
-- 🛠️ Most of the projects here are things I've built while learning
+- 🔐 Learning more about **cybersecurity, ethical hacking, and system security**
+- 🚩 Practising **CTF challenges**, including web exploitation, cryptography, and digital forensics
+- 🛠️ Exploring **penetration testing, networking, and security tools** through coursework and labs
+- 💻 Building projects with **Python, C++, Java, and JavaScript**
+- 🌐 Also interested in **software development, networking, IoT, and parallel computing**
+
+I'm still learning, and most of the projects here are part of that journey. I like trying new things, understanding what happens behind the scenes, and learning from each project I work on.
 
 ---
 
@@ -39,125 +41,115 @@ I enjoy learning about different areas of tech and trying things out through uni
 
 ### Programming
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-</div>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="36" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="JavaScript" />
+</p>
 
 ### Web & Database
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
-</div>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="36" alt="MySQL" />
+</p>
 
-### Tools
+### Development & Security Tools
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva"/>
-</div>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="36" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="36" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="36" alt="Linux" />
+</p>
+
+**Currently exploring:** `Nmap` `Wireshark` `Linux` `CTF Tools` `MPI` `NumPy` `Git & GitHub`
 
 ---
 
-## 🌱 Things I'm Learning
+## 🔐 Cybersecurity & Security Projects
 
-Right now, I'm spending my time learning and exploring:
+### 🛡️ [CipherSentry — Behavioural Security Research Prototype](https://github.com/Pokp4n/Prototype-CipherSentry)
 
-`C++` `Cybersecurity` `CTF` `Networking` `IoT` `Red Teaming` `Algorithms`
+A Python + PySide6 desktop research prototype that explores **ransomware-like file activity** using behaviour-based indicators, local event monitoring, alerts, and harmless simulations. This is an experimental project, not a production antivirus tool.
 
-I'm still learning, so this list will probably keep changing 😄
-
----
-
-## 📚 University Projects
-
-Here are some of the projects I've worked on during my studies at IIUM. Some are individual projects, while others were built together with my classmates.
+`Python` `PySide6` `Behavioural Analysis` `Security Research`
 
 ### 💬 [SecureStudentChat](https://github.com/Pokp4n/SecureStudentChat)
 
-A university project focused on building a secure student communication system.
+A university secure-messaging project demonstrating **AES-256-CBC encryption, HMAC-SHA256 integrity checks, and replay protection** through a local client-server system.
 
-`Security` `Programming` `Group Project`
-
----
+`Python` `Applied Cryptography` `Client–Server` `Group Project`
 
 ### 🔐 [SecureX](https://github.com/Pokp4n/SecureX)
 
-A hybrid encryption project built for my **Programming for Engineers** course.
+An educational C++ encryption and decryption program combining **Vigenère and XOR transformations** with RSA-based key handling, created for my Programming for Engineers course.
 
-The program combines the **Vigenère Cipher and XOR encryption** to encrypt and decrypt text.
-
-`C++` `Cryptography` `Vigenère Cipher` `XOR`
-
----
+`C++` `Cryptography` `Vigenère` `XOR`
 
 ### 🔏 [Privacy Engineering](https://github.com/Hazim229/Privacy-Engineering)
 
-A group project where I worked with my teammates on concepts related to privacy, security, and data protection.
+A collaborative university project exploring concepts related to **privacy, security, and data protection**.
 
 `Privacy` `Security` `Group Project`
 
 ---
 
+## 💻 Software Development & Computing Projects
+
+### 🌡️ [Parallel Heat Diffusion with MPI](https://github.com/Pokp4n/mpi-heat-diffusion)
+
+A **parallel 1-D heat diffusion simulation** built with Python, NumPy, and mpi4py. It splits the workload across MPI processes, exchanges boundary data, and compares parallel results with a serial implementation.
+
+`Python` `MPI` `mpi4py` `NumPy` `Parallel Computing`
+
+### 🍽️ [CampusEats](https://github.com/Pokp4n/campuseats-2417219)
+
+A React-based university food-ordering application featuring restaurant menus, a cart, checkout validation, page navigation, and saved orders.
+
+`React` `JavaScript` `Vite` `React Router` `Web Development`
+
 ### 🚗 [OOP Car Rental System](https://github.com/baia12/OOP_CarRented)
 
-A car rental system developed while learning and applying **Object-Oriented Programming (OOP)** concepts.
+A collaborative car rental system built while learning and applying **Object-Oriented Programming** concepts.
 
 `OOP` `Programming` `Group Project`
 
+### 🧮 [Calculator](https://github.com/Pokp4n/calculator)
+
+A smaller web project for practising JavaScript programming fundamentals and **number-base conversion**.
+
+`JavaScript` `HTML` `CSS`
+
+> I'll keep adding more projects here as I continue learning and building. :)
+
 ---
 
-### 🧮 [Calculator](https://github.com/sshafiq05/calculator)
+## 🚩 My Cybersecurity Journey
 
-A smaller project created while practicing programming fundamentals and problem solving.
+I'm gradually building my cybersecurity knowledge through **CTF practice, university labs, and security-related projects**.
 
-`Programming` `Problem Solving`
+Some areas I've been exploring:
 
----
+- **CTF challenges:** Web exploitation, cryptography, forensics, and basic reverse engineering
+- **Penetration testing:** Reconnaissance, scanning, enumeration, and basic vulnerability assessment in authorised labs
+- **Security analysis:** Network traffic analysis, cryptography, and malware-analysis fundamentals
+- **Security tools:** Linux, Nmap, Wireshark, and other tools introduced through coursework and workshops
 
-> I'll keep adding projects here as I build and learn more :)
----
+I also joined **ICECTF: Chapter 2** with my teammates and we placed **6th**. It was a valuable opportunity to learn through practice and teamwork.
 
-## 🚩 Cybersecurity Journey
-
-I've recently started spending more time learning about cybersecurity outside of class.
-
-So far, I've been exploring things like:
-
-- Capture The Flag (CTF)
-- Ethical Hacking
-- Red Teaming
-- Networking
-- Security tools and labs
-
-Still very much learning — but that's part of the fun :)
+There's still a lot for me to explore, and that's what makes the journey interesting! 🚩
 
 ---
 
 <div align="center">
-
-### 🤝 Connect with Me
-
-<a href="https://www.linkedin.com/in/wan-zul-%E2%80%98irfan-wan-zulkifli-27b76333a/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="30" alt="LinkedIn"/>
-</a>
-
-<br><br>
-
-Thanks for stopping by! 👋
-
+  <h3>🤝 Connect with Me</h3>
+  <a href="https://www.linkedin.com/in/wan-zul-irfan/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <br><br>
+  Thanks for stopping by! 👋
 </div>
